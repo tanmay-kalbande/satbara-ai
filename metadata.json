@@ -1,0 +1,7 @@
+{
+  "description": "7/12 (Satbara) Land Record Simplifier using Gemini Vision and NLP.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Satbara AI Analyzer"
+}
