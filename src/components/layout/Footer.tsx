@@ -40,9 +40,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                             Tanmay Kalbande
                         </a>
                     </p>
-                    <p className="text-[12px] text-[#737373] opacity-70">
-                        Part of the 100 AI-Powered Apps Challenge • 2025
-                    </p>
+
                 </div>
             </div>
         </footer>
